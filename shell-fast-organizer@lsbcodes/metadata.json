@@ -1,0 +1,17 @@
+{
+    "name": "Shell Fast Organizer",
+    "description": "Add a right-click menu to the App Grid and Dash to automatically organize applications into category folders.",
+    "uuid": "shell-fast-organizer@lsbcodes",
+    "shell-version": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+    ],
+    "version": 1,
+    "url": "https://github.com/lsantiagoba/shell-fast-organizer",
+    "donations": {
+        "paypal": "leandrosb3"
+    }
+}
